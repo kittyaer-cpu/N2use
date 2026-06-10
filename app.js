@@ -80,7 +80,7 @@ function renderLogin() {
         </div>
 
         <button id="loginBtn" style="width:100%">登入</button>
-        <p class="small muted">管理員預設：5052／佩佩，密碼 5052</p>
+        <p class="small muted">🍃 每一份努力都會長成森林</p>
       </div>
     </div>
   `;
