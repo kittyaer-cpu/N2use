@@ -1,0 +1,9 @@
+{
+  "name": "北二獎懲基金App",
+  "short_name": "北二基金",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F7F1DE",
+  "theme_color": "#5F8F3A",
+  "icons": [{"src":"./logo.png","sizes":"1024x1024","type":"image/png"}]
+}
